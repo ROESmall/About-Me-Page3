@@ -10,9 +10,8 @@ www.https://github.com/ROESmall?About-Me-Page3
 ## Features
 
 Joyriding with "Ms.Joyrider360"
-20190507_062638_img_0114Copy.JPG 0.6MP 744x863
-
-lorem ipsum dolor sit
+[Image of Ms. Joyrider360]
+lorem ipsum dolor sit paragraph section
 
 
 
@@ -32,3 +31,5 @@ www."https://codexacademy.moodlecloud.com"
 
 #### Technologies Used:
 ##### HTML
+
+[def]: https://img20190507_062638_img_0114Copy.JPGi
