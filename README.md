@@ -5,18 +5,20 @@
 This is a simple HTML project that introduces who I am, my interests,and a few of my favorite links
 
 ## Author
-www.https://github.com/ROESmall?About-Me-Page3
+
+<https://github.com/ROESmall?About-Me-Page3>
 
 ## Features
 
 Joyriding with "Ms.Joyrider360"
-[Image of Ms. Joyrider360]
-lorem ipsum dolor sit paragraph section
 
+![Image Description](https://img/20190507_026238_IMG_0114Copy.JPG)
 
+## Bio
 
+Mother of four young adults and one beautiful granddaughter. Cooking is my passion, I have been in the industry for over 30 yrs. Now, my focus is on coding.
 
-## List of Hobbies:
+## List of Hobbies
 
 Fishing
 
@@ -26,10 +28,8 @@ Cooking/ Baking
 
 Custom Jewelry Making
 
+<www."<https://codexacademy.moodlecloud.com>>"
 
-www."https://codexacademy.moodlecloud.com"
+### Technologies Used
 
-#### Technologies Used:
-##### HTML
-
-[def]: https://img20190507_062638_img_0114Copy.JPGi
+HTML
