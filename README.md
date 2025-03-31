@@ -12,7 +12,7 @@ This is a simple HTML project that introduces who I am, my interests,and a few o
 
 Joyriding with "Ms.Joyrider360"
 
-![Image Description](https://img/20190507_026238_IMG_0114Copy.JPG)
+<img src="https://via.placeholder.com/150" alt="A cute orange cat lying on its back">
 
 ## Bio
 
